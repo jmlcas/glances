@@ -10,6 +10,6 @@ services:
     environment:
       - GLANCES_OPT=-w
     ports:
-      - 5280:61208
+      - 61208:61208
     pid: host
     restart: always
