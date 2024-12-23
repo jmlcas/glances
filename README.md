@@ -1,3 +1,3 @@
-# glances
+# Glances
 
-ver en localhost:61208
+Ver en "http://localhost:61208"
